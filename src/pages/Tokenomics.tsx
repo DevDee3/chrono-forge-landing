@@ -14,7 +14,7 @@ const Tokenomics = () => {
   ];
 
   const tokenMetrics = [
-    { label: "Token Symbol", value: "CHRONO", icon: Zap },
+    { label: "Token Symbol", value: "RACKS", icon: Zap },
     { label: "Total Supply", value: "1,000,000,000", icon: TrendingUp },
     { label: "Circulating Supply", value: "150,000,000", icon: Users },
     { label: "Current Price", value: "$0.42", icon: Award },
@@ -37,17 +37,17 @@ const Tokenomics = () => {
     },
     {
       title: "Staking Rewards",
-      description: "Stake CHRONO tokens to earn yield and participate in protocol revenue sharing.",
+      description: "Stake RACKS tokens to earn yield and participate in protocol revenue sharing.",
       icon: TrendingUp
     },
     {
       title: "Fee Discounts",
-      description: "Reduced trading fees and premium features for CHRONO token holders.",
+      description: "Reduced trading fees and premium features for RACKS token holders.",
       icon: Award
     },
     {
       title: "Liquidity Mining",
-      description: "Earn additional CHRONO tokens by providing liquidity to supported pools.",
+      description: "Earn additional RACKS tokens by providing liquidity to supported pools.",
       icon: Zap
     },
   ];
@@ -66,7 +66,7 @@ const Tokenomics = () => {
             className="text-center mb-16"
           >
             <h1 className="text-5xl md:text-6xl font-space-grotesk font-bold mb-6">
-              <span className="gradient-text">CHRONO</span> Tokenomics
+              <span className="gradient-text">RACKS</span> Tokenomics
             </h1>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
               Explore the economic model powering the Racks ecosystem. 
@@ -121,7 +121,7 @@ const Tokenomics = () => {
                 <div className="absolute inset-0 flex items-center justify-center">
                   <div className="text-center">
                     <PieChart className="w-16 h-16 text-primary mx-auto mb-4" />
-                    <div className="text-2xl font-bold">1B CHRONO</div>
+                    <div className="text-2xl font-bold">1B RACKS</div>
                     <div className="text-muted-foreground">Total Supply</div>
                   </div>
                 </div>
@@ -166,7 +166,7 @@ const Tokenomics = () => {
               Token <span className="gradient-text">Utility</span>
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              CHRONO tokens unlock exclusive benefits and governance rights
+              RACKS tokens unlock exclusive benefits and governance rights
             </p>
           </motion.div>
 
