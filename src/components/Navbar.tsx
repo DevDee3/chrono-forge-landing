@@ -26,10 +26,10 @@ const Navbar = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
             <div className="w-8 h-8 bg-gradient-primary rounded-lg flex items-center justify-center">
-              <span className="text-primary-foreground font-bold">CF</span>
+              <span className="text-primary-foreground font-bold">R</span>
             </div>
             <span className="font-space-grotesk font-bold text-xl gradient-text">
-              ChronoForge
+              Racks
             </span>
           </Link>
 

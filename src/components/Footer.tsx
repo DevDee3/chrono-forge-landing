@@ -47,15 +47,15 @@ const Footer = () => {
           <div className="lg:col-span-2">
             <Link to="/" className="flex items-center space-x-2 mb-4">
               <div className="w-8 h-8 bg-gradient-primary rounded-lg flex items-center justify-center">
-                <span className="text-primary-foreground font-bold">CF</span>
+                <span className="text-primary-foreground font-bold">R</span>
               </div>
               <span className="font-space-grotesk font-bold text-xl gradient-text">
-                ChronoForge
+                Racks
               </span>
             </Link>
             <p className="text-muted-foreground mb-6 max-w-sm">
-              The next-generation DeFi protocol powered by AI and cross-chain infrastructure. 
-              Building the future of decentralized finance.
+              RACKS token airdrop for early supporters and community members. 
+              Join the revolution in decentralized finance rewards.
             </p>
             <div className="flex space-x-4">
               {socialLinks.map((social) => (
@@ -103,7 +103,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-border/50 flex flex-col md:flex-row justify-between items-center">
           <p className="text-muted-foreground text-sm mb-4 md:mb-0">
-            © 2024 ChronoForge. All rights reserved.
+            © 2024 Racks. All rights reserved.
           </p>
           <div className="flex items-center space-x-4 text-sm text-muted-foreground">
             <span>Powered by Solana & Alchemy</span>

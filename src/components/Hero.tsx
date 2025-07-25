@@ -77,9 +77,9 @@ const Hero = () => {
           variants={itemVariants}
           className="text-5xl md:text-7xl font-space-grotesk font-bold mb-6 leading-tight"
         >
-          The Future of
+          Claim Your
           <br />
-          <span className="gradient-text text-glow">Cross-Chain DeFi</span>
+          <span className="gradient-text text-glow">RACKS Airdrop</span>
         </motion.h1>
 
         {/* Subtitle */}
@@ -87,8 +87,8 @@ const Hero = () => {
           variants={itemVariants}
           className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto"
         >
-          Experience seamless multi-chain transactions with AI-powered optimization. 
-          Trade, stake, and earn across all major blockchains with zero friction.
+          Join the exclusive RACKS token distribution. Early supporters and community members 
+          are eligible for free token allocation. Check your eligibility and claim now.
         </motion.p>
 
         {/* CTA Buttons */}
@@ -97,11 +97,11 @@ const Hero = () => {
           className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12"
         >
           <button className="btn-primary group">
-            Launch Protocol
+            Check Eligibility
             <ArrowRight className="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" />
           </button>
           <button className="btn-secondary">
-            Read Whitepaper
+            Claim Tokens
           </button>
         </motion.div>
 
@@ -112,15 +112,15 @@ const Hero = () => {
         >
           <div className="flex items-center space-x-2">
             <Shield className="w-6 h-6 text-primary" />
-            <span className="text-sm">Secure</span>
+            <span className="text-sm">10M Total Supply</span>
           </div>
           <div className="flex items-center space-x-2">
             <Layers className="w-6 h-6 text-secondary" />
-            <span className="text-sm">Cross-Chain</span>
+            <span className="text-sm">15% Airdrop</span>
           </div>
           <div className="flex items-center space-x-2">
             <Zap className="w-6 h-6 text-accent" />
-            <span className="text-sm">AI-Powered</span>
+            <span className="text-sm">Zero Fees</span>
           </div>
         </motion.div>
       </motion.div>
