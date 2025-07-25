@@ -270,7 +270,7 @@ const Pricing = () => {
               Ready to <span className="gradient-text">Start Trading</span>?
             </h2>
             <p className="text-xl text-muted-foreground mb-8">
-              Join thousands of users earning with ChronoForge's AI-powered DeFi platform
+              Join thousands of users earning with Rack's AI-powered DeFi platform
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button className="btn-primary">
