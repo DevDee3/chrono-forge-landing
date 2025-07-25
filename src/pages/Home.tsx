@@ -85,7 +85,7 @@ const Home = () => {
             className="text-center mb-16"
           >
             <h2 className="text-4xl md:text-5xl font-space-grotesk font-bold mb-6">
-              Why Choose <span className="gradient-text">ChronoForge</span>?
+              Why Choose <span className="gradient-text">Racks</span>?
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
               Built for the next generation of DeFi users who demand speed, security, and simplicity.
