@@ -34,7 +34,7 @@ const Home = () => {
     {
       name: "Alex Chen",
       role: "DeFi Researcher",
-      content: "ChronoForge has revolutionized how I manage cross-chain positions. The AI optimization saves me hours daily."
+      content: "Racks" has revolutionized how I manage cross-chain positions. The AI optimization saves me hours daily."
     },
     {
       name: "Sarah Johnson",
