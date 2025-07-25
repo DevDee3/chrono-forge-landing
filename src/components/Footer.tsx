@@ -4,9 +4,9 @@ import { Link } from 'react-router-dom';
 const Footer = () => {
   const socialLinks = [
     { icon: Twitter, href: '#', label: 'Twitter' },
-    { icon: Github, href: '#', label: 'GitHub' },
+    { icon: Globe, href: '#', label: 'Globe' },
     { icon: Linkedin, href: '#', label: 'LinkedIn' },
-    { icon: Globe, href: '#', label: 'Website' },
+    { icon: Discord, href: '#', label: 'Discord' },
   ];
 
   const footerLinks = [
