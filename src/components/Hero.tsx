@@ -68,7 +68,7 @@ const Hero = () => {
         <motion.div variants={itemVariants} className="mb-6">
           <span className="inline-flex items-center px-4 py-2 rounded-full bg-primary/10 border border-primary/20 text-sm font-medium">
             <Zap className="w-4 h-4 mr-2 text-primary" />
-            Powered by GPT-4 & LayerZero cross-chain infra
+            Powered by Solana & Alchemy infrastructure
           </span>
         </motion.div>
 

@@ -106,7 +106,7 @@ const Footer = () => {
             © 2024 ChronoForge. All rights reserved.
           </p>
           <div className="flex items-center space-x-4 text-sm text-muted-foreground">
-            <span>Powered by GPT-4 & LayerZero</span>
+            <span>Powered by Solana & Alchemy</span>
             <div className="w-2 h-2 bg-primary rounded-full animate-pulse"></div>
           </div>
         </div>
