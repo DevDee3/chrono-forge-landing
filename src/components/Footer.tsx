@@ -103,7 +103,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-border/50 flex flex-col md:flex-row justify-between items-center">
           <p className="text-muted-foreground text-sm mb-4 md:mb-0">
-            © 2024 Racks. All rights reserved.
+            © 2025 Racks. All rights reserved.
           </p>
           <div className="flex items-center space-x-4 text-sm text-muted-foreground">
             <span>Powered by Solana & Alchemy</span>
