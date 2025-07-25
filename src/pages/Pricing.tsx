@@ -234,7 +234,7 @@ const Pricing = () => {
             className="text-center mb-16"
           >
             <h2 className="text-4xl md:text-5xl font-space-grotesk font-bold mb-6">
-              Why Choose <span className="gradient-text">ChronoForge</span>?
+              Why Choose <span className="gradient-text">Racks</span>?
             </h2>
           </motion.div>
 
