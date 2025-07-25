@@ -69,7 +69,7 @@ const Tokenomics = () => {
               <span className="gradient-text">CHRONO</span> Tokenomics
             </h1>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              Explore the economic model powering the ChronoForge ecosystem. 
+              Explore the economic model powering the Racks ecosystem. 
               Designed for sustainable growth and community-driven governance.
             </p>
           </motion.div>
