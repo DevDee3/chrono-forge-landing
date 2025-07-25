@@ -100,7 +100,7 @@ const Contact = () => {
               Get in <span className="gradient-text">Touch</span>
             </h1>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              Have questions about ChronoForge? Our team is here to help you 
+              Have questions about Racks? Our team is here to help you 
               navigate the future of DeFi.
             </p>
           </motion.div>
