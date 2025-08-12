@@ -1,3 +1,6 @@
+A modern, responsive, and Web3-ready airdrop landing page for **RACKS Token**.
+
+This website allows users to **check eligibility** and **claim RACKS tokens** directly on the blockchain, powered by **Solana** and **Alchemy** infrastructure.
 
 Changes made via Lovable will be committed automatically to this repo.
 
