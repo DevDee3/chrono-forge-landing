@@ -6,7 +6,7 @@ const Footer = () => {
     { icon: Twitter, href: '#', label: 'Twitter' },
     { icon: Globe, href: '#', label: 'Globe' },
     { icon: Linkedin, href: '#', label: 'LinkedIn' },
-    { icon: Discord, href: '#', label: 'Discord' },
+    
   ];
 
   const footerLinks = [

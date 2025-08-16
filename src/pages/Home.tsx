@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import Hero from '@/components/Hero';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
-import { Zap, Shield, Layers, TrendingUp, Users, Award } from 'lucide-react';
+import { Zap, Shield, Layers } from 'lucide-react';
 
 const Home = () => {
   const features = [
@@ -34,7 +34,7 @@ const Home = () => {
     {
       name: "Alex Chen",
       role: "DeFi Researcher",
-      content: "Racks" has revolutionized how I manage cross-chain positions. The AI optimization saves me hours daily."
+      content: '"Racks" has revolutionized how I manage cross-chain positions. The AI optimization saves me hours daily.'
     },
     {
       name: "Sarah Johnson",
@@ -50,9 +50,10 @@ const Home = () => {
 
   return (
     <div className="min-h-screen">
+      
       <Navbar />
       <Hero />
-      
+
       {/* Stats Section */}
       <section className="py-20 bg-card/30">
         <div className="container mx-auto px-4">
@@ -63,7 +64,7 @@ const Home = () => {
             className="grid grid-cols-2 md:grid-cols-4 gap-8"
           >
             {stats.map((stat, index) => (
-              <div key={index} className="text-center">
+              <div key={index} className="text-center hover:scale-105 transition-transform duration-300">
                 <div className="text-3xl md:text-4xl font-bold gradient-text mb-2">
                   {stat.value}
                 </div>

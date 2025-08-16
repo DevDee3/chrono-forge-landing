@@ -1,24 +1,30 @@
-# Welcome to your Lovable project
+Racks Airdrop (Frontend)
 
-## Project info
+The Racks Airdrop DApp is a decentralized application (dApp) built on Solana & Alchemy infrastructure, designed to distribute RACKS tokens to early supporters and community members.
 
-**URL**: https://lovable.dev/projects/e8ea5784-3601-4b41-b197-a9227ddb7e2d
+Users can easily:
 
-## How can I edit this code?
+Check their eligibility
 
-There are several ways of editing your application.
+Claim RACKS tokens instantly
 
-**Use Lovable**
+Enjoy zero gas fees
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/e8ea5784-3601-4b41-b197-a9227ddb7e2d) and start prompting.
+This project demonstrates how blockchain airdrops can be automated and made user-friendly through a modern frontend and Web3 integrations.
 
-Changes made via Lovable will be committed automatically to this repo.
+Features
 
-**Use your preferred IDE**
+Airdrop Distribution – Claim free RACKS tokens.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Eligibility Check – Verify wallet eligibility instantly.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Zero Fees – Powered by Solana & Alchemy infra for seamless transactions.
+
+Responsive UI – Clean, modern interface with animations.
+
+Frontend-Only Architecture – Interacts directly with smart contracts, no backend required.
+
+---
 
 Follow these steps:
 
@@ -30,7 +36,7 @@ git clone <YOUR_GIT_URL>
 cd <YOUR_PROJECT_NAME>
 
 # Step 3: Install the necessary dependencies.
-npm i
+npm install
 
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
@@ -60,14 +66,32 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+Tokenomics
 
-Simply open [Lovable](https://lovable.dev/projects/e8ea5784-3601-4b41-b197-a9227ddb7e2d) and click on Share -> Publish.
+Total Supply: 10,000,000 RACKS
 
-## Can I connect a custom domain to my Lovable project?
+Airdrop Allocation: 15%
 
-Yes, you can!
+Transaction Fees: Zero
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+---
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Contributing
+
+Contributions are welcome!
+
+1. Fork the repo
+
+2. Create your feature branch (git checkout -b feature/new-feature)
+
+3. Commit your changes (git commit -m 'Add new feature')
+
+4. Push to branch (git push origin feature/new-feature)
+
+5. Open a Pull Request
+
+License
+
+This project is licensed under the MIT License.
+
+---
