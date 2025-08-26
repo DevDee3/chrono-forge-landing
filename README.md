@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Racks Airdrop (Frontend)
 
 The Racks Airdrop DApp is a decentralized application (dApp) built on Solana & Alchemy infrastructure, designed to distribute RACKS tokens to early supporters and community members.
@@ -17,7 +17,7 @@ A modern, responsive, and Web3-ready airdrop landing page for **RACKS Token**.
 
 This website allows users to **check eligibility** and **claim RACKS tokens** directly on the blockchain, powered by **Solana** and **Alchemy** infrastructure.
 
-> > > > > > > origin/main
+
 
 Features
 
@@ -73,7 +73,7 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-<<<<<<< HEAD
+
 Tokenomics
 
 Total Supply: 10,000,000 RACKS
@@ -101,9 +101,3 @@ Contributions are welcome!
 License
 
 This project is licensed under the MIT License.
-
----
-
-=======
-
-> > > > > > > origin/main
